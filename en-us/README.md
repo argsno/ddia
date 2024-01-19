@@ -28,7 +28,7 @@
 
 ### [Part I: Foundations of Data Systems](part-i.md)
   - [1. Reliable, Scalable, and Maintainable Applications](ch1.md)
-  - [2. Data Models and Query Languages](ch2.md)
+  - [2. Data Models and Query Languages](Courses/ddia/en-us/ch2.md)
   - [3. Storage and Retrieval](ch3.md)
   - [4. Encoding and Evolution](ch4.md)
 
